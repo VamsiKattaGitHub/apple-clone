@@ -137,7 +137,7 @@ font-family: helvetica;
 }
 @media (max-width: 600px) {
   .nav-bar {
-    flex-direction: column;
+    flex-direction: row;
     text-align: center;
   }
 }
